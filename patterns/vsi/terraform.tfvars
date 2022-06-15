@@ -1,6 +1,6 @@
 TF_VERSION               = "1.0"
-prefix                   = "< add user data here >"
-region                   = "< add user data here >"
+prefix                   = "jaya-dallas"
+region                   = "dallas"
 ssh_public_key           = "< add user data here >"
 tags                     = []
 vpcs                     = ["management", "workload"]
