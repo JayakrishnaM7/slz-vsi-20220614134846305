@@ -1,7 +1,7 @@
 TF_VERSION               = "1.0"
 prefix                   = "jaya-dallas"
 region                   = "dallas"
-ssh_public_key           = "< add user data here >"
+ssh_public_key           = "AAAAB3NzaC1yc2EAAAADAQABAAACAQC3ljAzbKnIaTrAZdb0c6RffmDPTDPFApgSN6DmnNPtSbn6a/GIBgjZF5GL4osDP1R9ulpXvZogmmpainvtPwEfvCtaGW+hUGIgfsGRmTTZmF1h1zVtrzPTJWlN11DZIE6nfZe27T2JPa8rXDaoQABTO8JSrX/4doZiz/Es95iDFM+v5vG3okc0PFK5Oq45bACp/esCwhin5oBzCDNYkwXVjrDGx3qceZewXcVcjhC9iZ89SLb0qdr/VqXlnal6cfRErwahwR93YyJ+izAdMiKZc/+xlokGN0kkMcdukGvKnzqkc2lSzUY3TjI8IQe6Q5L8kXbVZPbwRq7f7GE0wIdq9crRCSaGyywPRi8ePGvai9L2mIKz8dKQyqeA1VUEU9WcbuSs0TXfTW0rzTW+XgdoYmnNyKMCAchXWVrVxPSkzxkFPg5d/bRHpLUN79HrhvPhxsSB776/CP5+jH6ZXrJqBq+Ue1MItEiPFmkledknO+VTY79qb6dk93vrNSRdwXPSGeWY8aIlJlpPe7GqUGVA14YeJnbQpFDWMVg39wTdifJMr3q4TRVCkGDw8KR7xPujI0wJiLfdbEfKbxS1rr3g06FNcdneOIV9tPkyUMW8wO4CSJKBFXjn40P6Axj2GIanoUskQHQ+4o3UIb/XSJqDOU7TkjYegwRUgEq98EMDSw== admin@SLZ"
 tags                     = []
 vpcs                     = ["management", "workload"]
 enable_transit_gateway   = true
